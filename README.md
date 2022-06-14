@@ -2,4 +2,4 @@
 
 Skype static ui template
 
-<div style="position: relative; padding-bottom: 55.78124999999999%; height: 0;"><iframe src="https://www.loom.com/embed/19c6a68e2f9a4777b424ef98cab86740" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+https://user-images.githubusercontent.com/30262687/173647322-33ff4aaf-fe2b-4ec3-96c3-19caa9830837.mp4
