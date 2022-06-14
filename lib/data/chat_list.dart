@@ -1,0 +1,12 @@
+import 'package:skype_static_ui/model/chat_user.dart';
+
+List<ChatUsersModel> chatUsers = [
+  ChatUsersModel(name: 'Nicola Sarkozy', avatar: 'https://images.unsplash.com/photo-1571816119607-57e48af1caa9?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTJ8fGZhY2V8ZW58MHx8MHx8&auto=format&fit=crop&w=800&q=60', online: false, time: '22/04/22', lastMessage: 'How are you?'),
+  ChatUsersModel(name: 'Olaf Scholz', avatar: 'https://images.unsplash.com/photo-1552058544-f2b08422138a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjB8fGZhY2V8ZW58MHx8MHx8&auto=format&fit=crop&w=800&q=60', online: true, time: '22/09/05', lastMessage: 'Im tired'),
+  ChatUsersModel(name: 'Monarch of potato', avatar: 'https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8ZmFjZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=800&q=60', online: true, time: '22/09/09', lastMessage: 'I will now show you'),
+  ChatUsersModel(name: 'Macron', avatar: 'https://images.unsplash.com/photo-1499996860823-5214fcc65f8f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8ZmFjZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=800&q=60', online: true, time: '22/07/22', lastMessage: 'Can I call you?'),
+  ChatUsersModel(name: 'Mariana', avatar: 'https://images.unsplash.com/photo-1571816119607-57e48af1caa9?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTJ8fGZhY2V8ZW58MHx8MHx8&auto=format&fit=crop&w=800&q=60', online: false, time: '22/04/22', lastMessage: 'Anyway hello'),
+  ChatUsersModel(name: 'Best best friend', avatar: 'https://images.unsplash.com/photo-1552058544-f2b08422138a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjB8fGZhY2V8ZW58MHx8MHx8&auto=format&fit=crop&w=800&q=60', online: false, time: '22/09/05', lastMessage: 'Me and horse'),
+  ChatUsersModel(name: 'Best friend', avatar: 'https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8ZmFjZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=800&q=60', online: false, time: '22/09/09', lastMessage: 'Mb you can will healthy'),
+  ChatUsersModel(name: 'Brother', avatar: 'https://images.unsplash.com/photo-1499996860823-5214fcc65f8f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8ZmFjZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=800&q=60', online: true, time: '22/07/22', lastMessage: 'Dont open the door!'),
+];
